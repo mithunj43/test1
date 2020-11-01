@@ -1,1 +1,1 @@
-# test1
+This is to test merge strategies 
